@@ -1,0 +1,6 @@
+﻿Referências de estudo:
+CRUD básico usando o padrão Repository e Razor Pages.
+http://www.macoratti.net/18/10/aspn_crudap1.htm
+http://www.macoratti.net/18/10/aspn_crudap2.htm
+http://www.macoratti.net/18/10/aspn_crudap3.htm
+http://www.macoratti.net/18/10/aspn_crudap4.htm
